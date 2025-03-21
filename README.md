@@ -6,7 +6,7 @@ The is the place to access the soruce code or artifacts related to PolicySym.
 
 [PolicySym: Policy-Guided Symbolic execution](https://github.com/zqp542375/policySym)
 
-[Expriment Scripts]()
+[Expriment Scripts](https://github.com/zqp542375/policySym_exp_scripts)
 
 [Experiment Data]()
 
