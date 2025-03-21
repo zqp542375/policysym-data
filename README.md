@@ -8,8 +8,4 @@ The is the place to access the soruce code or artifacts related to PolicySym.
 
 [Expriment Scripts](https://github.com/zqp542375/policySym_exp_scripts)
 
-[Experiment Data]()
 
-[Collected Results]()
-
-Will update soon!
